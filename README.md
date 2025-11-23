@@ -19,6 +19,9 @@ Consumer приймає елементи і обчислює кожне сере
 extern void vStartLab3_Variant9(void);
 vStartLab3_Variant9();
 vTaskStartScheduler();
+```
 2. Додати файл:
+```
 lab3_variant9.c
-3. Зібрати WIN32-MSVС / MinGW → запустити.
+```
+4. Зібрати WIN32-MSVС / MinGW → запустити.
