@@ -17,7 +17,9 @@
 - три задачі з чітким розподілом ролей
 
 ## Приклад роботи
-[Control] START (attempt #1)
-[UI] Progress: 5%
-[UI] Progress: 10%
-[UI] Download complete!
+```c
+-[Control] START (attempt #1)
+-[UI] Progress: 5%
+-[UI] Progress: 10%
+-[UI] Download complete!
+```c
